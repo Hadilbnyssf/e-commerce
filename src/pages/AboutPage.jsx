@@ -8,19 +8,22 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-          facere doloremque veritatis odit similique sequi. Odit amet fuga nam
-          quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
-          totam vero quas provident ipsam, veritatis nostrum velit quos
-          recusandae est mollitia esse fugit dolore laudantium. Ex vel explicabo
-          earum unde eligendi autem praesentium, doloremque distinctio nesciunt
-          porro tempore quis eaque labore voluptatibus ea necessitatibus
-          exercitationem tempora molestias. Ad consequuntur veniam sequi ullam
-          tempore vel tenetur soluta dolore sunt maxime aliquam corporis est,
-          quo saepe dolorem optio minus sint nemo totam dolorum! Reprehenderit
-          delectus expedita a alias nam recusandae illo debitis repellat libero,
-          quasi explicabo molestiae saepe, dolorem tempore itaque eveniet quam
-          dignissimos blanditiis excepturi harum numquam vel nihil? Ipsum
+        Welcome to MyBazaar – Your Trusted Online Shopping Destination!<br/>
+
+At MyBazaar, we are dedicated to making your shopping experience simple, enjoyable, and secure.<br/>
+ Explore a wide range of carefully selected products tailored to meet your needs,<br/>
+  whether it's for your home, fashion, technology, or leisure.<br/>
+
+🌟 Why Shop with MyBazaar?<br/>
+
+Guaranteed Quality: We partner with trusted brands to bring you reliable, high-quality products.<br/>
+Competitive Prices: Take advantage of exclusive deals and regular promotions.<br/>
+Fast Delivery: Shop with peace of mind – we ensure quick and reliable shipping.<br/>
+Customer Satisfaction: Our dedicated team is here to assist you every step of the way,<br/>
+ from browsing to after-sales support.<br/>
+Browse our categories and get inspired by our latest arrivals! ✨<br/>
+
+At MyBazaar, we’re more than just an online store – we’re your partner for hassle-free shopping.<br/>
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
